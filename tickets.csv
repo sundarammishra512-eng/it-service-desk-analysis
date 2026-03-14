@@ -1,0 +1,251 @@
+ticket_id,issue_type,team,resolution_hours
+1,Payment Failure,Billing,19
+2,Payment Failure,Tech,46
+3,Performance,Support,24
+4,Login Issue,Support,42
+5,Account Access,Tech,40
+6,Login Issue,Support,28
+7,Performance,Support,6
+8,Payment Failure,Billing,30
+9,Bug,Support,4
+10,Login Issue,Billing,23
+11,Account Access,Support,17
+12,Login Issue,Billing,31
+13,Bug,Tech,18
+14,Login Issue,Billing,5
+15,Bug,Tech,34
+16,Bug,Billing,17
+17,Login Issue,Billing,42
+18,Bug,Tech,36
+19,Payment Failure,Support,2
+20,Login Issue,Billing,15
+21,Login Issue,Tech,19
+22,Login Issue,Billing,10
+23,Account Access,Support,14
+24,Payment Failure,Support,33
+25,Payment Failure,Tech,34
+26,Payment Failure,Support,28
+27,Payment Failure,Support,47
+28,Account Access,Tech,46
+29,Login Issue,Support,19
+30,Bug,Tech,22
+31,Payment Failure,Tech,9
+32,Payment Failure,Tech,27
+33,Performance,Support,5
+34,Performance,Billing,38
+35,Login Issue,Billing,22
+36,Payment Failure,Billing,46
+37,Login Issue,Tech,18
+38,Payment Failure,Billing,16
+39,Account Access,Tech,24
+40,Bug,Billing,4
+41,Bug,Billing,22
+42,Payment Failure,Support,15
+43,Bug,Billing,12
+44,Account Access,Support,1
+45,Performance,Billing,10
+46,Login Issue,Billing,19
+47,Login Issue,Tech,45
+48,Payment Failure,Tech,47
+49,Account Access,Tech,22
+50,Performance,Billing,29
+51,Performance,Support,46
+52,Payment Failure,Billing,22
+53,Payment Failure,Billing,16
+54,Bug,Tech,16
+55,Login Issue,Billing,15
+56,Login Issue,Support,43
+57,Login Issue,Tech,40
+58,Bug,Billing,6
+59,Account Access,Tech,17
+60,Performance,Billing,30
+61,Login Issue,Billing,19
+62,Account Access,Billing,5
+63,Account Access,Support,36
+64,Bug,Billing,44
+65,Login Issue,Billing,43
+66,Account Access,Support,38
+67,Payment Failure,Support,45
+68,Account Access,Billing,17
+69,Payment Failure,Tech,26
+70,Bug,Billing,17
+71,Account Access,Support,23
+72,Login Issue,Support,16
+73,Account Access,Support,37
+74,Performance,Support,33
+75,Performance,Billing,5
+76,Account Access,Billing,25
+77,Login Issue,Billing,14
+78,Bug,Billing,44
+79,Login Issue,Support,1
+80,Account Access,Billing,27
+81,Performance,Support,8
+82,Bug,Tech,30
+83,Payment Failure,Support,20
+84,Performance,Billing,37
+85,Account Access,Support,42
+86,Login Issue,Billing,2
+87,Account Access,Billing,16
+88,Payment Failure,Tech,30
+89,Payment Failure,Support,39
+90,Bug,Support,12
+91,Performance,Support,36
+92,Bug,Support,6
+93,Payment Failure,Tech,37
+94,Account Access,Billing,18
+95,Bug,Support,30
+96,Bug,Support,47
+97,Bug,Tech,20
+98,Payment Failure,Tech,44
+99,Account Access,Billing,1
+100,Performance,Support,35
+101,Login Issue,Support,37
+102,Payment Failure,Tech,11
+103,Performance,Tech,22
+104,Payment Failure,Billing,40
+105,Bug,Billing,2
+106,Payment Failure,Support,38
+107,Bug,Support,4
+108,Payment Failure,Tech,36
+109,Performance,Tech,27
+110,Bug,Tech,40
+111,Performance,Billing,47
+112,Bug,Support,5
+113,Performance,Support,38
+114,Payment Failure,Tech,30
+115,Payment Failure,Tech,29
+116,Bug,Support,33
+117,Performance,Billing,29
+118,Bug,Support,46
+119,Account Access,Support,4
+120,Payment Failure,Support,31
+121,Bug,Support,27
+122,Bug,Billing,22
+123,Performance,Billing,32
+124,Account Access,Billing,39
+125,Account Access,Tech,17
+126,Bug,Tech,34
+127,Bug,Support,25
+128,Login Issue,Tech,30
+129,Performance,Support,19
+130,Payment Failure,Billing,22
+131,Bug,Billing,15
+132,Bug,Billing,1
+133,Payment Failure,Tech,46
+134,Performance,Billing,40
+135,Bug,Tech,40
+136,Login Issue,Billing,11
+137,Performance,Tech,11
+138,Payment Failure,Billing,30
+139,Payment Failure,Tech,33
+140,Performance,Billing,41
+141,Bug,Tech,33
+142,Payment Failure,Support,19
+143,Account Access,Tech,44
+144,Login Issue,Billing,14
+145,Bug,Tech,14
+146,Login Issue,Support,5
+147,Account Access,Tech,9
+148,Login Issue,Billing,21
+149,Performance,Tech,46
+150,Performance,Tech,4
+151,Bug,Support,20
+152,Login Issue,Billing,43
+153,Performance,Tech,33
+154,Account Access,Billing,3
+155,Payment Failure,Billing,41
+156,Bug,Tech,45
+157,Account Access,Support,28
+158,Payment Failure,Support,29
+159,Payment Failure,Support,40
+160,Login Issue,Tech,39
+161,Payment Failure,Support,46
+162,Performance,Tech,28
+163,Bug,Support,21
+164,Bug,Tech,35
+165,Bug,Tech,34
+166,Performance,Tech,31
+167,Account Access,Support,37
+168,Bug,Tech,2
+169,Performance,Billing,4
+170,Payment Failure,Support,36
+171,Login Issue,Tech,41
+172,Account Access,Support,20
+173,Payment Failure,Tech,12
+174,Login Issue,Support,22
+175,Account Access,Tech,7
+176,Account Access,Billing,7
+177,Account Access,Support,38
+178,Login Issue,Tech,47
+179,Performance,Tech,1
+180,Payment Failure,Tech,12
+181,Payment Failure,Tech,7
+182,Account Access,Billing,33
+183,Bug,Support,36
+184,Performance,Support,17
+185,Payment Failure,Support,7
+186,Payment Failure,Tech,11
+187,Payment Failure,Billing,32
+188,Account Access,Tech,16
+189,Account Access,Support,34
+190,Bug,Support,31
+191,Performance,Tech,28
+192,Payment Failure,Billing,27
+193,Bug,Support,9
+194,Login Issue,Tech,43
+195,Bug,Billing,29
+196,Performance,Support,24
+197,Login Issue,Support,29
+198,Performance,Support,40
+199,Login Issue,Tech,33
+200,Payment Failure,Support,19
+201,Performance,Tech,32
+202,Bug,Support,19
+203,Bug,Support,23
+204,Account Access,Support,6
+205,Account Access,Billing,3
+206,Payment Failure,Billing,17
+207,Bug,Support,17
+208,Login Issue,Support,39
+209,Payment Failure,Tech,31
+210,Bug,Support,17
+211,Payment Failure,Tech,35
+212,Bug,Tech,31
+213,Login Issue,Tech,36
+214,Account Access,Support,24
+215,Payment Failure,Tech,41
+216,Account Access,Tech,21
+217,Bug,Support,43
+218,Performance,Billing,38
+219,Performance,Billing,10
+220,Performance,Billing,31
+221,Payment Failure,Support,11
+222,Performance,Support,28
+223,Bug,Billing,4
+224,Bug,Tech,15
+225,Payment Failure,Billing,1
+226,Bug,Support,28
+227,Login Issue,Support,1
+228,Bug,Billing,35
+229,Bug,Support,29
+230,Login Issue,Tech,37
+231,Account Access,Billing,25
+232,Account Access,Billing,41
+233,Payment Failure,Billing,2
+234,Performance,Support,13
+235,Account Access,Tech,4
+236,Payment Failure,Tech,33
+237,Performance,Billing,8
+238,Payment Failure,Tech,20
+239,Login Issue,Billing,30
+240,Bug,Support,9
+241,Login Issue,Tech,25
+242,Account Access,Billing,7
+243,Login Issue,Support,26
+244,Login Issue,Support,19
+245,Payment Failure,Support,42
+246,Performance,Tech,10
+247,Performance,Tech,40
+248,Login Issue,Support,3
+249,Account Access,Billing,5
+250,Payment Failure,Billing,1
